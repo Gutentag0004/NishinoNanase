@@ -3,7 +3,7 @@
 
 **Most job is finished by Python for crawler and data processing**
 
-**But code is in initial stage**
+**But code is in its initial stage**
 
 **No generality support for now**
 
