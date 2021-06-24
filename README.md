@@ -1,5 +1,5 @@
 # NishinoNanase
-**This is the repo used for rural reaes information collecting**
+**This is the repo used for rural reaes information collecting\n**
 **Most job is finished by Python for crawler and data processing**
 **But code is in initial stage**
 **No generality support for now**
