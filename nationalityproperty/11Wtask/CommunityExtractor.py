@@ -1,6 +1,6 @@
-areasFile = open("D:\PycharmProjects\gmyproj\\nationalityproperty\\11Wtask\\tests.csv", 'r', encoding="UTF-8")
-communityFile = open("D:\PycharmProjects\gmyproj\\nationalityproperty\\11Wtask\\community.txt", 'a+', encoding="UTF-8")
-villiageCommunityFile = open("D:\PycharmProjects\gmyproj\\nationalityproperty\\11Wtask\\villageCommunity.txt", 'a+', encoding="UTF-8")
+areasFile = open("C:\\Users\\gph\\workspace\\NishinoNanase\\nationalityproperty\\11Wtask\\areas.txt", 'r', encoding="UTF-8")
+communityFile = open("C:\\Users\gph\workspace\\NishinoNanase\\nationalityproperty\\11Wtask\community.txt", 'a+', encoding="UTF-8")
+villiageCommunityFile = open("C:\\Users\\gph\\workspace\\NishinoNanase\\nationalityproperty\\11Wtask\\villageCommunity.txt", 'a+', encoding="UTF-8")
 
 count = 1
 villiageCount = 1
